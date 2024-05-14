@@ -358,7 +358,7 @@ h3 a{
 }
 
 .left-container {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/vevita/WhatsApp-Image-2024-04-16-at-14.24.40.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('WhatsApp-Image-2024-04-16-at-14.24.40.png');
     background-size: cover;
     background-position: center;
     min-height: 50vh;
